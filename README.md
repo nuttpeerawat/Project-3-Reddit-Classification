@@ -1,5 +1,4 @@
 # Project-3-reddit-classification
-# Project-3-reddit-classification
 ------------------------------------------------------------------------
 ## Contents:
 
