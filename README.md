@@ -1,4 +1,4 @@
-# Project-3-reddit-classification
+# DSI_Project-3-reddit-classification
 ------------------------------------------------------------------------
 ## Contents:
 
